@@ -13,6 +13,11 @@ The program is written in .NET C#, running natively in Windows. The program can 
 
 Start up:
 -----------
+The compressed file can be unzipped to more or less everywhere.
+If needed especially in Windows can be set a to program_root_folder/PreAnalyseExtended.exe and just start the program. 
+In Linux the program call is on the command line $mono  program_root_folder\PreAnalyseExtended.exe
+A start up using Linux ‘wine’ is outstanding. 
+
 After start up the first time a window defining the needed working folders appears. For best performance it is recommended to set the three path in your comfortable way. It is asked for:
 + The standard base directory for data files. This option is mandatory but very useful. It is
   also recommend to use the according check box. Following that a project being created,
