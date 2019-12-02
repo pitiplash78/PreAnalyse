@@ -4,6 +4,8 @@ The general overview of the project is given by two releases, two programs:
 - PreAnalyseExtended, and
 - LaborLog
 
+The binaries are found in ‘Releases’ at the corresponding tags ‘Assert’.
+
 Description of PreAnalyseExtended:
 ------------------------------------------------
 This graphical program is is used for screening, modifying and analysis for linear time series in Geosciences and Physics. The data is organised in projects and well organised as sorted to work on different projects at different times. The screening and modifying is carried out graphical by using the mouse and keyboard for fast clean progress. For analysing the data exists several functions. The exchange of data between different users can simple carried out by export and import the whole project that each user has the same information and modified data, as the knowledge of their history.
