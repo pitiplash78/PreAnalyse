@@ -4,7 +4,7 @@ The general overview of the project is given by two releases, two programs:
 - PreAnalyseExtended, and
 - LaborLog
 
-The binaries are found in **`Releases`**! After description is found **`Assert`** providing the download option. Please report bugs, errors and so on under **`Issues`**.
+The binaries are found in **`Releases`**. After the description is found **`Assert`** providing the download option. Please report bugs, errors and so on under **`Issues`**.
 
 Please report bugs and wishes in 'Issues'.
 
@@ -20,4 +20,4 @@ The program is a simple event logger for use in labs or similar facilities. It a
 The output of the program can also be used during time series analysis with PreAnalyseExtended for to get time relevant information according the time series.
 
 
-The binaries are found in **`Releases`**! After description is found **`Assert`** providing the download option. Please report bugs, errors and so on under **`Issues`**.
+The binaries are found in **`Releases`**! After the description is found **`Assert`** providing the download option. Please report bugs, errors and so on under **`Issues`**.
