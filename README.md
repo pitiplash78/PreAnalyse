@@ -4,7 +4,7 @@ The general overview of the project is given by two releases, two programs:
 - PreAnalyseExtended, and
 - LaborLog
 
-The binaries are found in **‘Releases’**! After description is found **‘Assert’** providing the download option. Please report bugs, errors and so on under **'Issues'**.
+The binaries are found in **`Releases`**! After description is found **‘Assert’** providing the download option. Please report bugs, errors and so on under **'Issues'**.
 
 Please report bugs and wishes in 'Issues'.
 
