@@ -17,6 +17,6 @@ The program is written in .NET C#, running natively in Windows in the .NET-envir
 Description of LaborLog:
 ---------------------------------
 The program is a simple event logger for use in labs or similar facilities. It allows a fast effective documentation of done work in brief description. The option allows e-mail notification to inform related parties. 
-The output of the program can also be used during time series analysis with PreAnalyseExtended for better understanding. The ‘log-file’ is stored in XML format.
+The output of the program can also be used during time series analysis with PreAnalyseExtended for to get time relevant information according the time series.
 
 The binaries are found in **‘Releases’**! After description is found **‘Assert’** providing the download option.
